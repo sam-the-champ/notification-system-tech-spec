@@ -1,6 +1,6 @@
 # RFC-0041: Fintech-Scale Notification Infrastructure
 **Status:** Draft for Architecture Review  
-**Authors:** Platform Engineering  
+**Authors:** Olalekan Ogundimu  
 **Created:** 2026-05-27  
 **Target:** 1M+ active users, multi-channel delivery (Push / SMS / Email)
 
